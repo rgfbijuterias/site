@@ -1,6 +1,5 @@
 <html lang="pt-br">
 	<head>
-		<title>RGF Bijuterias</title>
 		<meta charset="utf-8"/>
 	</head>
 	<body style="background-color: lightblue;">
